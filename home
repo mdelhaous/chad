@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/> 
+  <title>Association for Children</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f9ff;
+      color: #333;
+    }
+    header {
+      background: #4a90e2;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+    }
+    .hero {
+      text-align: center;
+      background: #eaf3ff;
+      padding: 3rem 1rem;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    .hero p {
+      font-size: 1.2rem;
+    }
+    .activities {
+      background: #ffffff;
+    }
+    .activities ul {
+      list-style: none;
+      padding: 0;
+    }
+    .activities li {
+      background: #dceeff;
+      margin: 0.5rem 0;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      background: #4a90e2;
+      color: white;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Association for Children</h1>
+    <p>Supporting kids, building futures</p>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome!</h1>
+    <p>We are dedicated to empowering children through education, play, and community support.</p>
+  </section>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>Our association is a non-profit organization focused on improving the lives of children through various programs and events. We believe every child deserves a safe and nurturing environment to grow.</p>
+  </section>
+
+  <section class="activities">
+    <h2>Our Activities</h2>
+    <ul>
+      <li>After-school tutoring</li>
+      <li>Weekend play & learn sessions</li>
+      <li>Annual summer camps</li>
+      <li>Community service projects</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: contact@childrenassociation.org</p>
+    <p>Phone: +212 600-000-000</p>
+    <p>Address: 123 Children's Road, Casablanca</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Association for Children. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
